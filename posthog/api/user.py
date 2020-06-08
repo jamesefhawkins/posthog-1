@@ -33,6 +33,7 @@ def user(request):
         if 'user' in data:
             request.user.email_opt_in = data['user'].get('email_opt_in', request.user.email_opt_in)
             request.user.anonymize_data = data['user'].get('anonymize_data', request.user.anonymize_data)
+            request.user.toolbar_mode = data['user'].get('toolbar_mode', request.user.toolbar_mode)
             posthoganalytics.identify(request.user.distinct_id, {
                 'email_opt_in': request.user.email_opt_in,
                 'anonymize_data': request.user.anonymize_data,
@@ -49,6 +50,7 @@ def user(request):
         'has_events': Event.objects.filter(team=team).exists(),
         'email_opt_in': request.user.email_opt_in,
         'anonymize_data': request.user.anonymize_data,
+        'toolbar_mode': request.user.toolbar_mode,
         'team': {
             'app_urls': team.app_urls,
             'api_token': team.api_token,
