@@ -322,14 +322,33 @@ class TestCapture(BaseTest):
 class TestDecide(BaseTest):
     TESTS_API = True
 
-    def test_user_on_own_site(self):
+    def test_user_on_own_site_enabled(self):
+        user = self.team.users.all()[0]
+        user.toolbar_mode = 'toolbar'
+        user.save()
+
         self.team.app_urls = ['https://example.com/maybesubdomain']
         self.team.save()
         response = self.client.get('/decide/', HTTP_ORIGIN='https://example.com').json()
         self.assertEqual(response['isAuthenticated'], True)
-        self.assertEqual(response['toolbarVersion'], settings.TOOLBAR_VERSION)
+        self.assertEqual(response.get('toolbarVersion', None), "toolbar")
+
+    def test_user_on_own_site_disabled(self):
+        user = self.team.users.all()[0]
+        user.toolbar_mode = 'default'
+        user.save()
+
+        self.team.app_urls = ['https://example.com/maybesubdomain']
+        self.team.save()
+        response = self.client.get('/decide/', HTTP_ORIGIN='https://example.com').json()
+        self.assertEqual(response['isAuthenticated'], True)
+        self.assertIsNone(response.get('toolbarVersion', None))
 
     def test_user_on_evil_site(self):
+        user = self.team.users.all()[0]
+        user.toolbar_mode = 'toolbar'
+        user.save()
+
         self.team.app_urls = ['https://example.com']
         self.team.save()
         response = self.client.get('/decide/', HTTP_ORIGIN='https://evilsite.com').json()
@@ -337,8 +356,12 @@ class TestDecide(BaseTest):
         self.assertIsNone(response.get('toolbarVersion', None))
 
     def test_user_on_local_host(self):
+        user = self.team.users.all()[0]
+        user.toolbar_mode = 'toolbar'
+        user.save()
+
         self.team.app_urls = ['https://example.com']
         self.team.save()
         response = self.client.get('/decide/', HTTP_ORIGIN='http://127.0.0.1:8000').json()
         self.assertEqual(response['isAuthenticated'], True)
-        self.assertEqual(response['toolbarVersion'], settings.TOOLBAR_VERSION)
+        self.assertEqual(response['toolbarVersion'], "toolbar")
