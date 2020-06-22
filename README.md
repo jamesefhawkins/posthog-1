@@ -1,10 +1,14 @@
 ![PostHog header](https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/github-cover.png)
-![PostHog header](https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/github-cover.png)
-
 
 # PostHog (Community Edition)
 
 PostHog is open source product analytics, built for developers. Automate the collection of every event on your website or app, with no need to send data to 3rd parties. It's a 1 click to deploy on your own infrastructure, with full API/SQL access to the underlying data.
+
+
+
+| Header Column One | Header Column Two | Header Column Three | Header Column Four |
+
+
 
 ## Quick start
 
