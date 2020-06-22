@@ -4,24 +4,9 @@
 
 PostHog is open source product analytics, built for developers. Automate the collection of every event on your website or app, with no need to send data to 3rd parties. It's a 1 click to deploy on your own infrastructure, with full API/SQL access to the underlying data.
 
-| # PostHog (Community Edition) | defghi |
-:-: | -----------:
-bar | baz
+| abc | def |
+| --- | --- |
  
-<table>
-<thead>
-<tr>
-<th align="center">abc</th>
-<th align="right">defghi</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">bar</td>
-<td align="right">baz</td>
-</tr>
-</tbody>
-</table>
 
 ## Quick start
 
