@@ -1,4 +1,6 @@
 ![PostHog header](https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/github-cover.png)
+![PostHog header](https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/github-cover.png)
+
 
 # PostHog (Community Edition)
 
