@@ -2,12 +2,9 @@
 
 | # PostHog (Community Edition) | # Quick start |
 | --- | --- |
-|  PostHog is open source product analytics, built for developers. 
-Automate the collection of every event on your website or app, 
-with no need to send data to 3rd parties. It's a 1 click to deploy 
-on your own infrastructure, with full API/SQL access to the underlying data.  | 1-click Heroku deploy:
+|  PostHog is open source product analytics, built for developers. Automate the collection of every event on your website or app, with no need to send data to 3rd parties. It's a 1 click to deploy on your own infrastructure, with full API/SQL access to the underlying data.  | 1-click Heroku deploy:
 
-<a href="https://heroku.com/deploy?template=https://github.com/posthog/posthog"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a> |
+<a href="https://heroku.com/deploy?template=https://github.com/posthog/posthog"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a> 
 
 
 # PostHog (Community Edition)
