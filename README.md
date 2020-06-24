@@ -1,13 +1,14 @@
 <p align="center"><img src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/Screenshot+2020-06-24+at+09.42.26.png" width="400px" /></p>
 
 <br />
+
 # PostHog (Community Edition)
 
 PostHog is open source product analytics, built for developers. Automate the collection of every event on your website or app, with no need to send data to 3rd parties. It's a 1 click to deploy on your own infrastructure, with full API/SQL access to the underlying data. 
  
 <br /><br /> 
  
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418316-8d4bc200-b568-11ea-8eb5-701bef3a4c71.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418316-8d4bc200-b568-11ea-8eb5-701bef3a4c71.png" width="50px" />
 
 ## Quick start
 
@@ -17,7 +18,7 @@ PostHog is open source product analytics, built for developers. Automate the col
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418322-8e7cef00-b568-11ea-8bde-8562403ce3a0.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418322-8e7cef00-b568-11ea-8bde-8562403ce3a0.png" width="50px" />
 
 ## In-depth walkthrough 
 
@@ -29,7 +30,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418323-8f158580-b568-11ea-81e2-9687661fea68.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418323-8f158580-b568-11ea-81e2-9687661fea68.png" width="50px" />
 
 ## Features
 
@@ -42,7 +43,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85422663-c0448480-b56d-11ea-9561-d8a77dd7cc17.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85422663-c0448480-b56d-11ea-9561-d8a77dd7cc17.png" width="50px" />
 
 ## Event autocapture
 
@@ -50,7 +51,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418327-8fae1c00-b568-11ea-8368-e40eb891f721.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418327-8fae1c00-b568-11ea-8368-e40eb891f721.png" width="50px" />
 
 ## Philosophy
 
@@ -64,7 +65,7 @@ It means you can know who is using your app, how they're using, and where you lo
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418329-9046b280-b568-11ea-9759-8fb95c7464b8.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418329-9046b280-b568-11ea-9759-8fb95c7464b8.png" width="50px" />
 
 ## What's cool about this?
 
@@ -74,7 +75,7 @@ There are a couple of session-based open source libraries that are nice alternat
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418331-9046b280-b568-11ea-8ff6-f33f05c8c691.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418331-9046b280-b568-11ea-8ff6-f33f05c8c691.png" width="50px" />
 
 ## PostHog SaaS
 
@@ -82,7 +83,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418332-90df4900-b568-11ea-9cb5-2f3120496253.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418332-90df4900-b568-11ea-9cb5-2f3120496253.png" width="50px" />
 
 ## Deploy to Heroku
 
@@ -90,7 +91,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418334-9177df80-b568-11ea-812c-202d76d0b4bf.png" width="120px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418334-9177df80-b568-11ea-812c-202d76d0b4bf.png" width="50px" />
 
 ## Production deployment
 
@@ -98,7 +99,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418335-92107600-b568-11ea-9e90-9481fc9f37e7.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418335-92107600-b568-11ea-9e90-9481fc9f37e7.png" width="50px" />
 
 ## Developing locally
 
@@ -106,7 +107,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418341-92a90c80-b568-11ea-9717-029b5677bea4.png" width="140" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418341-92a90c80-b568-11ea-9717-029b5677bea4.png" width="50px" />
 
 ## Contributing
 
@@ -116,7 +117,7 @@ Not sure where to start? [Book a free, no-pressure pairing session](mailto:tim@p
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418345-93da3980-b568-11ea-9850-402e5c34b2fa.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418345-93da3980-b568-11ea-9850-402e5c34b2fa.png" width="50px" />
 
 ## We're hiring!
 
@@ -124,7 +125,7 @@ Come help us make PostHog even better. We're growing like crazy, [and we have a 
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418346-93da3980-b568-11ea-8b03-341a5756beae.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418346-93da3980-b568-11ea-8b03-341a5756beae.png" width="50px" />
 
 ## Open source / Paid
 
@@ -132,7 +133,7 @@ This repo is entirely [MIT licensed](/LICENSE). We charge for things like user p
 
 <br /><br />
 
-<img align="right" src="https://user-images.githubusercontent.com/65415371/85418347-9472d000-b568-11ea-8d78-836fc8652536.png" width="100px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/85418347-9472d000-b568-11ea-8d78-836fc8652536.png" width="50px" />
 
 ## Contributors 🦸
 
