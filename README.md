@@ -6,7 +6,7 @@ PostHog is open source product analytics, built for developers. Automate the col
  
 <br /><br /> 
  
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/icon-start.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2.jpg" width="50px" />
 
 ## Quick start
 
@@ -16,7 +16,7 @@ PostHog is open source product analytics, built for developers. Automate the col
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-walkthrough.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+3.jpg" width="50px" />
 
 ## In-depth walkthrough 
 
@@ -28,7 +28,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-features.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+4.jpg" width="50px" />
 
 ## Features
 
@@ -42,7 +42,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-event-autocapture.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+3+1.jpg" width="50px" />
 
 ## Event autocapture
 
@@ -50,7 +50,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-philosophy.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+4+1.jpg" width="50px" />
 
 ## Philosophy
 
@@ -64,7 +64,7 @@ It means you can know who is using your app, how they're using, and where you lo
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-whats-cool.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+6+1.jpg" width="50px" />
 
 ## What's cool about this?
 
@@ -74,7 +74,7 @@ There are a couple of session-based open source libraries that are nice alternat
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-posthog-saas.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+7+1.jpg" width="50px" />
 
 ## PostHog SaaS
 
@@ -82,7 +82,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-deploy-to-heroku.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+8+1.jpg" width="50px" />
 
 ## Deploy to Heroku
 
@@ -90,7 +90,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-production-deployment.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+10+1.jpg" width="50px" />
 
 ## Production deployment
 
@@ -98,7 +98,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-develop-locally.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+11+1.jpg" width="50px" />
 
 ## Developing locally
 
@@ -106,7 +106,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-contributing.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+12+1.jpg" width="50px" />
 
 ## Contributing
 
@@ -116,7 +116,7 @@ Not sure where to start? [Book a free, no-pressure pairing session](mailto:tim@p
 
 <br /><br />
 
-<img align="left" src="https://user-images.githubusercontent.com/65415371/85418345-93da3980-b568-11ea-9850-402e5c34b2fa.png" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+13+1.jpg" width="50px" />
 
 ## We're hiring!
 
@@ -124,7 +124,7 @@ Come help us make PostHog even better. We're growing like crazy, [and we have a 
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-hiring.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+14+1.jpg" width="50px" />
 
 ## Open source / Paid
 
@@ -132,7 +132,7 @@ This repo is entirely [MIT licensed](/LICENSE). We charge for things like user p
 
 <br /><br />
 
-<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icon-contributors.svg" width="50px" />
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+15+1.jpg" width="50px" />
 
 ## Contributors 🦸
 
