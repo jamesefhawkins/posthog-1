@@ -35,6 +35,7 @@ Join the [PostHog Users Slack](https://join.slack.com/t/posthogusers/shared_invi
 -   **Event-based** analytics at a user level - see which users are doing what in your application.
 -   **Complete control** over your data - host it yourself.
 -   **Automatically capture** clicks and page views to do analyze what your users are doing **retroactively**.
+-   **Feature flags** understand the impact of new features before rolling them out more widely
 -   Libraries for **[JS](https://posthog.com/docs/integrations/js-integration), [Python](https://posthog.com/docs/integrations/python-integration), [Ruby](https://posthog.com/docs/integrations/ruby-integration), [Node](https://posthog.com/docs/integrations/node-integration), [Go](https://posthog.com/docs/integrations/go-integration)** + [API](https://posthog.com/docs/integrations/api) for anything else.
 -   Beautiful **[graphs](https://posthog.com/docs/features/trends), [funnels](https://posthog.com/docs/features/funnels), [user cohorts](https://posthog.com/docs/features/cohorts), [user paths](https://posthog.com/docs/features/paths) and [dashboards](https://posthog.com/docs/features/dashboards)**.
 -   Super easy deploy using **Docker** or **Heroku**.
